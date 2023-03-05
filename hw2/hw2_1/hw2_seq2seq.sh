@@ -1,0 +1,1 @@
+python Testing.py $'/Users/avinashkomatineni/Desktop/deeplearning_hw2/testing_data/feat' $'testing_data.txt'
